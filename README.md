@@ -1,3 +1,5 @@
+This fork fixes a pagination bug in the original
+
 Laravel Database
 ================
 
